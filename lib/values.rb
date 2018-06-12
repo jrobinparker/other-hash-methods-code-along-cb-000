@@ -17,5 +17,5 @@ def get_the_values(groceries)
       grains: ["rice", "pasta"]
     }
     
-  return groceries.keys
+  groceries.keys
 end
