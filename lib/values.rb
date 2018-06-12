@@ -18,6 +18,5 @@ def get_the_values(groceries)
     }
     
   grocery_values = groceries.values
-  grocery_values.flatten
-  grocery_values
+  grocery_values.join
 end
